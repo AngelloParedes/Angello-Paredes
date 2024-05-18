@@ -11,4 +11,7 @@ Primero Forma de desarrollo:
 
 Segunda Forma de produccion:
 -Abrir una terminal y ejecutar el siguiente comando "npm run build"
--Despues ejecutar este comando npm start
+-Despues ejecutar este comando npm start    
+
+
+eco
